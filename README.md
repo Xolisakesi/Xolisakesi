@@ -37,7 +37,7 @@ Innovative Software Engineer with a solid foundation from ALX Software Engineeri
 
 ## 🚀 Featured Projects
 
-### MetaTrader Connection Protocol (MCP)
+### MetaTrader_mcp Model Context Protocol (MCP)
 - Developed a bridge between external applications and MetaTrader 5 platform
 - Implemented socket-based communication protocol with JSON command structure
 - Engineered comprehensive security features and modular architecture
