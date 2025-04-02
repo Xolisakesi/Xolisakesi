@@ -6,7 +6,26 @@
 
 ## 👨‍💻 About Me
 
-Innovative Software Engineer with a solid foundation from ALX Software Engineering program. Passionate about developing efficient, scalable solutions with expertise in AI and machine learning. Driven by solving complex problems through code and committed to continuous learning and growth in the tech industry.
+<div align="center">
+  <h2>
+    <span style="background-image: linear-gradient(to right, #f953c6, #b91d73, #4a569d, #24c6dc, #514a9d, #b91d73, #f953c6); 
+                 -webkit-background-clip: text;
+                 background-clip: text;
+                 color: transparent;
+                 animation: rainbow_animation 6s ease-in-out infinite;
+                 background-size: 400% 100%;">
+      Innovative Software Engineer with a solid foundation from ALX Software Engineering program. Passionate about developing efficient, scalable solutions with expertise in AI and machine learning. Driven by solving complex problems through code and committed to continuous learning and growth in the tech industry.
+    </span>
+  </h2>
+</div>
+
+<style>
+@keyframes rainbow_animation {
+    0% { background-position: 0% 50% }
+    50% { background-position: 100% 50% }
+    100% { background-position: 0% 50% }
+}
+</style>
 
 ## 🔧 Skills
 
